@@ -11,7 +11,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 
 ---
 ### Some Stats
-<picture>
+<!--picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -50,7 +50,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 </p>
 
 
-<h1 align="left"><u>Github stats</u></h1>
+<h1 align="left"><u>Github Stats</u></h1>
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/86LAK/86LAK/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="86LAK" />
