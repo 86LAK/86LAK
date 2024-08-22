@@ -1,4 +1,4 @@
-## Shanon Lakshan
+## Lakshan
 
 Currently studying Software Engineering at The University of Queensland
 
