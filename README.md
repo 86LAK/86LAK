@@ -53,13 +53,13 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/86LAK/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="86LAK" />
 </p>
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=86LAK&theme=onedark" alt="86LAK" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=onedark" alt="86LAK" />
     </span>
 </p>
 
