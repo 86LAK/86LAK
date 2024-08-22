@@ -9,8 +9,6 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 [Linkedin](https://www.linkedin.com/in/86lak/)    
 [Leetcode](https://leetcode.com/86LAK/)
 
----
-### Some Stats
 <!--picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&theme=dark"
