@@ -65,11 +65,4 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/86LAK/86LAK/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="86LAK" />
 </p>
 
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=git-dark" alt="GitHub Streak" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=86LAK&theme=git-dark" alt="86LAK" />
-    </span>
-</p>
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=git-dark" alt="GitHub Streak" /></a>
