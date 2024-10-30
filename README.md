@@ -60,8 +60,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 </p>
 
 
-<h1 align="left"><u>Github Stats</u></h1>
-
+## GitHub Stats
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/86LAK/86LAK/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="86LAK" />
 </p>
