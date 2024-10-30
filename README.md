@@ -72,3 +72,4 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
     </span>
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=git-dark" alt="GitHub Streak" /></a>
