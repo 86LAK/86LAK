@@ -7,34 +7,6 @@ I use Arch BTW
 ### Awards / Competitions
 Winner of 2024 UQ EAIT Sustainability Hackathon
 
-### Links
-[Linkedin](https://www.linkedin.com/in/86lak/)    
-[Leetcode](https://leetcode.com/86LAK/)
-
-<!--picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true" />
-</picture>  
-
-  </br>
-<!-- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dark" />
-</picture> 
----
-### Some Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=MonsterEnergy&theme=dark)](https://github.com/JTrenerry/MonsterEnergy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=dark)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=spoons&theme=dark)](https://github.com/JTrenerry/spoons)
----
--->
-
 
 ### Setup
 <p>
