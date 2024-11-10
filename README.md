@@ -46,3 +46,4 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
     </span>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
