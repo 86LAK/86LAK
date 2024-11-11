@@ -39,21 +39,6 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/86LAK/86LAK/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="86LAK" />
 </p>
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
-    <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
-    <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
-    <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
-</div>
-
-
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-      <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
-    </span>
-</p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
     <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
     <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
