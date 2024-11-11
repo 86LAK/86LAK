@@ -53,3 +53,15 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
     <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
     <img style="flex: 1 1 auto; height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
 </div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
+    <div style="display: flex; justify-content: center; align-items: center; width: 49%; height: 200px;">
+        <img style="max-height: 100%; max-width: 100%; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; width: 49%; height: 200px;">
+        <img style="max-height: 100%; max-width: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; width: 49%; height: 200px;">
+        <img style="max-height: 100%; max-width: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
+    </div>
+</div>
