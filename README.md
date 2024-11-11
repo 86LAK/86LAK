@@ -41,8 +41,8 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
         <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
     </span>
 </p>
