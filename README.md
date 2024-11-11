@@ -58,3 +58,15 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
         <img style="height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
     </div>
 </div>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
+    <!-- First row: side-by-side images -->
+    <img style="height: 200px; width: auto; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
+    <img style="height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
+    
+    <!-- Second row: centered image -->
+    <div style="display: flex; justify-content: center; width: 100%; margin-top: 10px;">
+        <img style="height: 200px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
+    </div>
+</div>
