@@ -40,9 +40,9 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
-    <img style="flex: 1 1 auto; height: 125px; width: auto; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
-    <img style="flex: 1 1 auto; height: 125px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
-    <img style="flex: 1 1 auto; height: 125px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
+    <img style="flex: 1 1 auto; height: 130px; width: auto; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com?user=86LAK&theme=dracula" alt="GitHub Streak" />
+    <img style="flex: 1 1 auto; height: 130px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=86LAK&show_icons=true&locale=en&theme=dracula" alt="86LAK" />
+    <img style="flex: 1 1 auto; height: 130px; width: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=86LAK&layout=compact&theme=dracula" alt="TopLanguage" />
 </div>
 
 
