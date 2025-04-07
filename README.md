@@ -12,6 +12,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="Arch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim" alt="neovim" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 </p>
 
 ### Technologies and Skills
